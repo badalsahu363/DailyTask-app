@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DailyTask-app/static/css/main.46ec2e09.css",
+    "main.js": "/DailyTask-app/static/js/main.1696dcc7.js",
+    "index.html": "/DailyTask-app/index.html",
+    "main.46ec2e09.css.map": "/DailyTask-app/static/css/main.46ec2e09.css.map",
+    "main.1696dcc7.js.map": "/DailyTask-app/static/js/main.1696dcc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46ec2e09.css",
+    "static/js/main.1696dcc7.js"
+  ]
+}
